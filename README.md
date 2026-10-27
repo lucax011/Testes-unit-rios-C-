@@ -1,4 +1,22 @@
-# DIO - Trilha .NET - Testes Unitários com C#
+# Testes Unitários com C# e xUnit
+
+Minha solução do desafio de testes unitários do bootcamp de C# e .NET da [DIO](https://www.dio.me): **10 testes xUnit** cobrindo as classes `ValidacoesLista` e `ValidacoesString`, com cenários positivos e negativos.
+
+## Como rodar
+
+Pré-requisito: [.NET 8 SDK](https://dotnet.microsoft.com/download).
+
+```bash
+dotnet test
+```
+
+```
+Passed!  - Failed: 0, Passed: 10, Skipped: 0, Total: 10
+```
+
+## Enunciado original
+
+### DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
 ## Desafio de projeto
